@@ -1,4 +1,5 @@
 # n2nMovies
 **Movie Ticket Booking System (Frontend)**
-Demo : 
+
+- Demo : 
 https://n2nmovies.netlify.app/
